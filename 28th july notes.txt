@@ -1,0 +1,911 @@
+what is hope?
+
+hope is people were able to use http
+along with nodejs and use postman
+to send parameters atleast via get mode of request
+in http.
+
+we are going to see how react works if possible if everybody do some
+basic programs on react it is a good idea.
+
+
+summary of yesterday.
+1. do we understand concept of event handling
+what happens in event source and what happens in event listener.
+
+who will define a function and let the system call it.(event listenr)
+that is person who is interested in the event.
+
+2. nodejs code.
+
+someobject.someFucnction( function as input argument --X)
+hey some function call the X function when are done with
+the job... X is callback funtion. X function input argument
+is not decided by us, it is decided by nodejs hence
+we should know what Some function is doing to pass X properly.
+
+
+http.createServer(function() { console.log(123);  } );
+req and res is supplied to the function, only thing
+we have decided to ignore it..
+
+it will lab exam will be easy in this module.
+some basic programs in nodejs and react..
+
+2 basic programs
+1. react
+2. nodejs.  -- http or file , along with some stupid logic.
+http --- take a string via get and in nodejs count the
+number of words and each word how many times
+it occcurs and return word and number of occurence as value.
+
+who are worried about lab exam. just relax..
+
+intent matters...take the project seriously when you do it
+and ensure we have habit of using examples in the talk.
+in interview and then hope all the galaxies align properly
+and hopefully we get pleasant result in the interview
+unplesant result comes means ok change ....
+boring..
+100% gurantee does not exist for anything...
+
+all systems will be incomplete and inconsistant.. that is mathematically. proven.
+i figured how to waste 5 minutes of your time, successfully ...
+
+lab exam
+1. keep your bp level normal
+2. 2 question in lab exam.
+2.1 nodejs   --  http or file handling.. read a txt file and count number of words.
+2.2 react.
+both programs will be simple, you will get all syntax.
+2.3 what are you suppposed.
+2.3.1 write the code.
+2.3.2 take screen shot
+2.3.3 zip the file.
+
+frameworks...
+what is react a  framework
+what is jquery a framework
+what is angular a framework
+what is spirng a framework..
+
+
+Sir, what kind of risk/errors we can expect while implementing project?
+The biggest risk for the project is "intent" of team members...
+
+for lab exam
+2 hours should be enough..
+in my view code should
+get completed in 1 hour
+1 hour to waste..
+
+on august 2nd lab exam
+will be relatiely easier
+but that does not mean
+you should not prepare..
+
+
+
+
+
+
+people who have "high  bp" due to lab exam just relax... that is not worth having
+high "bp".
+today story is about 
+
+1.what is "intent" we have when we do project.
+
+the only "intent" we should have while we do project
+is are we solving  the "customer problem"
+
+why these kind of stupid examples, becuase "IT" industry
+you have different flavours of stupidness exhibited
+at different times.. by differnet people. so it is full
+of stupidness (oPINION. DONT TRUST ME ..)
+
+
+WHEN CUSTOMER HAS ASKED FOR A DOOR
+CARPENTAR SPENDS TIME MAKING HAMMER
+OR MAKING SAW .. customer door will take
+more time, if he is a stupid carpentar then
+he can tell the customer look I Planted the seed
+for the wood. also, by time customer gets
+the door he will become a fossil.
+
+Intent cannot be fixed by a process.
+it is just a thought..
+
+X was lift person, person who operates the lift.
+Y used come to lift everyday and ask X what is time?
+X was getting bored of this question of Y. put a clock
+X thought Y will not ask him any question
+but he did not understand intent of Y.
+Y started asking X everyday "is clock right"
+
+
+
+
+
+
+as a programmer I can two "intent"
+
+1. proper intent, is to tell my job is not think
+too much of technology, first job is solve customer
+problem learn whatever is needed to solve it..
+
+2.my idea is learn java properlyor javascript properlyor 
+react properly so let me do customer project..
+learning technology at customers cost.. (pathetic intent)
+
+
+opinion, agreeing gets zero marks..
+
+Framework what does it mean.
+1. they will have an opinion how to do things. architecture..
+2. they will have some ready made funtions, classes.
+3. it will some langauge specific.
+
+collection framework in java.
+i want write collection framework.
+you are writing java code..
+
+
+Sir, why we are using React instead of other js framework?
+
+is 2 lecture enough for react? for learning react basics
+it is enough learning "complete react"(scary word)
+
+time is not enough for anything..
+
+
+
+
+ Starting from 2nd top brick & starting from basic brick in that STAR figure..?
+
+I am doing a project..( ghost intention 10000 ft above sky
+no legs)
+
+successful project. 100 explanations can be there all
+can be correct
+1. how many people are using it 
+2. how long.
+3. is it profitable little bit atleast..
+
+
+sir why we call react a library not a framework
+
+which technology you will use in your project
+is left  to you , until somebody from ACTS or project
+guide tells you use this technology only.
+
+
+why are you doing project in ACTS course.
+
+0. in interview they will ask you the project
+1.you know some architecture. (2/5)
+2. you can write code which is 5 to 10% relevant in real life. (3.5/5)
+3. youc an show how you value colloboration , among 
+the team members. ( 2/5)
+4. ok you demonstrate process skills. (1/5)
+scrum board.. 
+stand up meeting
+
+in adults world 
+low prority means low priority
+in kids world
+low prioirty means no priority.
+
+
+
+
+
+
+scenario
+architecture
+code.
+
+zero chance of getting customers for the project
+in ACTS course, that is ok.
+
+
+Framework what does it mean.
+1. they will have an opinion how to do things. architecture..
+2. they will have some ready made funtions, classes.
+3. it will some langauge specific.
+
+
+is it possible to tell a "single movie" which is abest
+movie and which everybody agree on..
+people who answer this movie called "pqr" is the
+best movie.. ==kids world.
+
+there are hundreds of good movies and pqr is one among
+them that is ok.. but to become fan of "pqr" and tell
+this is best thing.. insane, because such things dont exist
+in real life..
+
+if somebody tells you that "X" approach is only
+way to prepare for the interview, will you agree?
+X is just one opinion how to prepare for the interview
+so there can Y approach , Z approach...
+
+in real life somebody tells there is "only one approachc"
+horrible answer, it wont be..
+
+should we become fan of "React" no
+what are you learning "REact" according to acts major companies
+which come to acts expect people to know React,so react
+is there...
+when programmer becomes fan of some framework or
+langauge   == first sign he does not want a job.
+
+
+
+
+
+
+
+
+
+
+in the industry there are opinions...of what is good depending on mood
+of the person at that point of time..
+
+take react as an opportunity to learn some framework.
+
+I can learn any framework 
+let me give  you an example how I learn react..
+
+I am fan of react in my view not a great idea.
+if reaxt is dead, do we want to be dead..
+
+I am java fan.. ok that means secretly i am telling
+if java is dead, i am dead that is pathetic.
+
+
+technology person should be "generic" 
+
+last 45 minutesd wastage of time to tell
+learn react good, but dont make it react specific
+generalize your learning..
+
+we should have confidence to tell
+put me on react today
+tomorrow put me on angular
+day after put  me on vue
+my bp level will be normal only..
+
+today i working on react
+next project is on angular my bp raises.
+"bad learning skill".
+
+any framework is an  "opinion" and expecting
+everybody to agree on it.. is stupidness.
+
+when somebody tells "fan" he should be hanging
+on the ceiling , fans hang on the celieng..
+
+which is my favourite technology
+none..
+
+which is langauge i am comfortable with=
+which langauge i coded for enough time  C++,java
+but that does not mean i am fan of c++ or java..
+
+fans == dangerous we should not..
+
+
+jump from 2+3 to x+y
+
+
+
+
+
+
+
+library != framework.
+but in computer science english is free, so people use the word according
+to thier "moods" that is case with react people ..
+ 
+library ==i get some ready made functions and classes and no architectureis enforced
+on me.. ( STL In c++,java collection framework..)
+
+Trusting is done, when "thinking" disappears.
+dont trust.. anyone including me..
+
+
+
+jquery, angular or react
+framework   == some architecture is enforced on me and then i also get
+some ready made functions and classes to use..
+
+how do you judge this..
+1. write  a textbox, put a button clciking on button next number given textbox
+should be shown. -- do this with just html,javscript
+and no library at all.
+
+2.
+1. write  a textbox, put a button clciking on button next number given textbox
+should be shown. -- do this with just html,javscript
+jquery.
+
+
+3.
+1. write  a textbox, put a button clciking on button next number given textbox
+should be shown. -- do this with just html,javscript
+react.
+
+4.
+1. write  a textbox, put a button clciking on button next number given textbox
+should be shown. -- do this with just html,javscript
+react.
+anguar..
+
+people opinions are not facts...
+dont become fan of any framework
+
+i used react in the project
+this is way react works.
+does that mean react is greatest technology no..
+
+
+which is yoru favourite DS (this is a stupid question
+answering this confirums stupidity)
+why it is stupid, DS means operations.
+you tell what operations and then we will think whichDS
+
+ we want fifo, queue
+lifo stack...
+queue is good or stack is good horrible question
+same thing exists in frameworks also.
+
+
+
+two set of frameworks
+
+1. java based
+jee
+spring, springboot
+hibernate
+
+
+2. javascript based
+2.1 jquery
+2.1 react.
+2.3 nodejs.
+
+somebody tells i travelled from mumbai to pune..
+how did you travel.
+1. car
+2. bus
+3. train
+4. flight
+answer will be may 1 to 4 something he has to choose.
+but he tells i walked...ok nothing wrong. strange answer.
+you want more details..
+why did you walk... look 1 month free time i wanted practice
+walking so i did , nothing wrong this..
+
+horrible answer, is oh i idd not know that bus, flight
+train was avaialble for pune..
+
+
+we will open syllabus and see where we are . after
+tea break..
+
+
+topic, how do you learn a framework called "X"
+
+
+I am doing a project called X.
+what frameworks are you using, and person tells
+no framewok I am using.
+this is sign of trouble for all "DAC projects" that
+means they are useless from industry point of view..
+
+I am building web  pages. which framework
+are you using, none.. sign of trouble
+ever since 1999, people are using frameworks 
+in web based applications..
+
+
+22 year history of using web based applications.
+we use frameworks somebody not using frameowrks
+ok but there should be a strong reason why theya re not using
+frameworks..
+
+minimum everycompany uses jquery...
+i will use react
+i wil use angualr...
+
+what is biggest problem if you write web applaitions
+without using frameworks for example  using
+document.getElementById.... what is problem with this..
+
+browsers have "moods"
+some x  works on one browser
+y works on other browser.
+so as programmer you have take care of x and y both
+if you use frameworks,f ramework will take care of x and y
+you dont need to take care of it..
+browser compatability issues.
+
+
+when you are building a web appliation for presentation
+
+1. which browsers are you targetting which versions
+of the browser.
+2... then come other things..
+exmple ie support we canot stop ,d efault browser.
+but ie is an example of worst browser designed..
+for todays world..
+
+i will demonstarte with code.
+
+60% and 70% tip for you. use google formto tell
+what you did not understand..
+
+
+todays web appliation use angular or react most of times.
+
+with respect to any framework.
+1.where is it used in the 3 tier architecture.
+2. which language it supports.
+3. we should not use memory, we should find out
+from the frameworks how to get started with
+the framework.. and build simple example.
+
+
+
+
+have you written programs
+uisng html, css and javascript in client side.
+in doing this you are atleat 70% above..
+
+what did you do here..
+
+1. we identified places in html which can change
+or places we have to read, put id for it.
+2. we wrote css classes for doing makeup.
+3.we setup javascript events
+3.1 read sections of html
+3.2 do some logic ( contact the servie layer and send input
+and get data  --ajax call). based on data got
+3.3 update the page.
+
+if you know upto 3.3 any prsentation framework
+you should how to deal with only things names will
+chagne, cocnepts dont..
+
+what should i do react, angualr or jquery.
+same thing written above..
+
+
+classes will not get get applied automatically by browser
+we have to apply it when need is there..
+programmer can control to apply o rn ot to apply.
+along with other answers you told that is fine..
+
+can you remember syntax that depedns on how programs
+we wrote..
+
+
+
+
+file:///D:/$$$dac/programs/a01wf.html
+no http so no question of web ...
+
+
+
+
+
+
+no use of framework.
+
+I want to use framework, nice english this is not technical
+which framework, jquery.. oh you wantto use jquery that is fine
+do you know architecture of jquery...
+
+if you want to do this program in jquery, what is first step...
+
+1. you need to include the jquery files...
+2. you have to know document.ready...event..
+3. you should how to select the textbox red its value...
+today only I am learning jqueryok go slow, focus on each function
+and see how it works. how to know what to include in jquery
+read jquery documentation.
+all these things needs patience..
+
+two important thing while searching.
+
+1. look for offiical site.
+2. look at date.. if date is less than 4 years from this year
+that means we are looking old article and things might have
+changed, until you have data that nothing has changed..
+
+if you dont find official site for a framework dont use the framework.
+do you buy a washing machine for which service doe s not exist.
+
+
+
+whenyou use framework look at date of first release
+look at latest release.
+botha re important. it shows that framework is still used..
+
+i see a framework releasted in 2008
+latest release is only 2012.
+in my projet to use this framework we have "think" why...ideally dont use it..
+
+framework usage needs zoom out first and not zoom in..
+
+why i use w3c schools.
+
+1. I fully know w3c schools
+will give zero knowledge on architecture..
+2. but i know copy pasted syntax
+will work... so to practice syntax
+after I know the concept
+i will use w3c schools
+
+
+you can use any website X.
+1. know what website can teach
+2. know what website cannot teach.
+
+for people who tell faster , slower do
+we have data.. or just opinion.
+double check.. we should data
+
+
+
+I am using framework ok you must functions of the framework.
+
+
+
+
+
+
+
+
+basics if we are using something why rush thru
+go slow, dont write poems just go step by step..
+
+step by step we should know concepts..
+
+
+
+
+so jquery setup is working
+
+similary.. react or x framework or y frameworl who caress..
+every framework will have an opinoin
+so i cannot jump to w3c schools withosut know concept..
+then w3c schools can feed me syntax...before copy
+pasting check whether it is corect or not..
+this requires patience..
+
+NO i hate doing this, ok whenever a framework
+comes jump and sit in a classroom and "hope"
+the teacher or facaulty teaches properly.. this is pathetic..
+
+in todays world our job is to learn topics from 10 places
+and find out which one is correct..
+yesterday story continuation.
+
+step  by step is a nice word are we following..
+do we know what are steps..
+
+
+css clases welcome theory again
+can you apply multiple css classes on anelement.
+
+those use .css in jquery bad idea... dont convert
+javascript file into a css file..
+
+
+makeup should remain in css.
+dynamic bheaviour in js
+static behaviour in html
+
+
+.css.style.color="color:blue"
+.css.style.text-decoration="underline"
+slowly mt js file will become css file it is a not a good
+idea. no i will use it, ok use it.. 
+
+
+when there is no customer for a project
+project is not working keep bp level normal
+think what needs to change... dont invest emotionin a 
+non working code.. oh it is not working so what
+think what ot change, change it...
+
+what is best way
+with framework
+or without framework
+answer is no dobut with framework..
+
+if you are building web based application
+and youa re deciding some framework
+to choose for presentation layer.
+
+1. then minimum is jquery
+2. maximim is react
+that is all you leanrin the course..
+no framework is a sin...
+
+in interview can you take an example and tell.
+in example called X
+1. if i did not use any framework this is way i code.
+2. then in jqery i code this way
+3. in react i code this way
+if you give computer i can code and show you also.
+
+use the word library happily than framework and leave it off.
+
+use the world what wiki tells.
+jquery and react are libraries.
+we are focussing more function usage
+
+
+typically answer is no...no i will write some kichidi code
+ok do it.. litle bit of jquery, little bit of raw javascript code
+ok write it... who cares...
+
+spring framework
+we are forced to understand architecture
+
+simple stdory for today can convertingyour day1 asingment
+into jquery stuff.
+everybody should do it and prove you understood it..
+
+convert jquery stuff in react..
+
+
+
+
+11.04Am we will 11.25am and join back,, opensyllabus and see where are we..
+
+after the break we will look at syllabus and where we are?
+
+
+
+what is "Story i am telling from morning"
+
+if you get a  framework called "x" can we learn by ourselves..
+so to do that we should learn generalize
+and not become fan of anyframework..
+
+in nodejs, there is around 1 hour..of pending stuff.
+remaining nodejs time i will spend on coming saturday
+if we do that entir syllabus is over.. 
+
+I wontcover express in the nodejs part, becuase
+it is not there in the syllabus at some point of time
+before project starts for those who need we will cover..
+
+may before project starts we can think of doubts
+and in that conextt we will cover some topics..
+as of now focus is standalone nodejs..
+
+
+soembody what do you know in nodejs.
+
+1. service layer and dao design in js
+2. nodejs runtime on which we write js code and run it.
+3. event driven...talk about event handling.
+4. example thru http..
+5. dont know this becuase we have not covered 
+some "jargons which we use to tell how nodejs works..
+event loop...  on saturday you will know"
+
+we are forced to talk about packge.json, why..
+react also uses a runtime on nodejs to build react code..
+we should how a program runs ok.. along with meaning
+of build tools. and then comes what is meaning build
+configuration files.
+
+secret story, we are in world of "huge copy pastes"
+java can copy paste from javascript
+javascript can copy paste from java
+python can copy paste from java..
+.net copy paste.. 
+
+after copy pasting, dont use the same name
+use a different name then kids will be happy
+they are using new things..
+
+nodejs .. for all practical prupose it is copy paste
+of spring framework...
+
+spring framework is java based.
+ndoejs is javascript based..
+
+package.json in npm (mechansim to distribute librarires)
+pom.xml maven...
+
+welcome to world of basics.
+.java file will  not run
+.class will fun..
+
+
+good basicto know that .class is running.
+all this inivisible to me... ok thanks to eclispe..
+
+
+jvm coverting to .class
+java compiler is converting the .java into .class.
+jvm is getting .class and running it.
+
+wrong answer why...
+
+none of you are h ere to get any certificates fromme saying
+youa re good bad.. that is not my job neither you shouldcare.
+
+
+
+writing code
+build tools
+configuration files for build tools.
+
+
+we are forced to use libraries becuase langauge runtime doesnot 
+have all the things we need.
+
+example in java when we install jdk. we dont databse
+related jar files so what we do download the jar files
+and use it..
+
+download the jar files good idea.
+but we doing it bad idea.. why let the tool do it
+it can do it in smarter way.
+
+what is smarter way...
+let us tool name is called X ( maven, npm ....)
+it will use a configuration file.
+maven -- pom.xml 
+npm -- package.json.
+when we download libraries, it will make an entry
+into the configuration file.
+
+let us i need a database library in nodejs.
+i need an express library in nodejs.
+which library you need you ahve to know
+other people cannot help.
+
+explain todays class in1 line
+story telling
+or
+do zoom out first before you do zoom in
+
+welcome to opinions node_modules is name
+where library files are stored. inside the project
+local installation.
+
+it will store the nodemoduels outside your project.
+that means multiple projects can use same module if need is there..
+what is biggest problem we have in class room.
+
+1. we dont understand that it is not about "I" it is about "We"
+example
+
+i have a project with package.json in s1
+
+i give thi project to person called X who is working on s2.
+in s2 has he already downloaded hte libraries, who knows
+no
+when we give project with package.json
+he can do npm install.
+thereby he can get the libraries..
+
+if I am thinking IIIII 
+only then none of things will make snese.
+
+simple example
+INheritance
+class
+object
+here most important thing to know collobration
+why
+
+suppose X writes the class called Employee
+Y is creating the object of the class.
+meaning for constructor
+X can impose some conditon on Y writing
+constructor in Employee
+
+X writes super class
+Y writes the subclass.
+
+
+who wrote the super class I
+who wrote the subclass I
+100% surely in a classroom.
+kids world..
+
+in react most important jargon
+component..
+
+what  are you supposed to do today..
+1. convert day1 assingments into jquery.
+you will show you know what framework is.
+2. those who feel comfortable try converting
+today what has been done in the class, 
+odd, even with color into react... (optional)
+3. make a quick summary of your oops skills.
+what is a class, object.
+what is inheritance
+what is association
+what is interface
+what is package.
+
+
+
+
+
+
+
+
+There are people who dont know ow to use paytm or google pay or book ola
+or book uber... and that is becuase they are not interested in learning...
+instead of learning i cant learn,,... no i find the bank convienct, i find going and taking
+auto ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X creates the class
+X is creaing the object.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
